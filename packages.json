@@ -26,5 +26,13 @@
   {
     "package": "hydroTools",
     "url": "https://github.com/CUG-hydro/hydroTools"
+  },
+  {
+    "package": "kfold",
+    "url": "https://github.com/rpkgs/kfold"
+  },
+  {
+    "package": "sf2",
+    "url": "https://github.com/rpkgs/sf2"
   }
 ]
