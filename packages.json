@@ -1,12 +1,28 @@
 [
   {
-    "package": "Ipaper", 
-    "url": "https://github.com/rpkgs/Ipaper"
+    "package": "phenofit",
+    "url": "https://github.com/eco-hydro/phenofit"
+  },
+  {
+    "package": "VIC5",
+    "url": "https://github.com/CUG-hydro/VIC5"
   },
   {
     "package": "rtrend",
     "url": "https://github.com/rpkgs/rtrend"
-  }, 
+  },
+  {
+    "package": "rcolors",
+    "url": "https://github.com/rpkgs/rcolors"
+  },
+  {
+    "package": "Ipaper",
+    "url": "https://github.com/rpkgs/Ipaper"
+  },
+  {
+    "package": "gg.layers",
+    "url": "https://github.com/rpkgs/gg.layers"
+  },
   {
     "package": "hydroTools",
     "url": "https://github.com/CUG-hydro/hydroTools"
