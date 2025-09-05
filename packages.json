@@ -1,0 +1,14 @@
+[
+  {
+    "package": "Ipaper", 
+    "url": "https://github.com/rpkgs/Ipaper"
+  },
+  {
+    "package": "rtrend",
+    "url": "https://github.com/rpkgs/rtrend"
+  }, 
+  {
+    "package": "hydroTools",
+    "url": "https://github.com/CUG-hydro/hydroTools"
+  }
+]
