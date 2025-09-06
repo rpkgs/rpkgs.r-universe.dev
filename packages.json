@@ -34,5 +34,13 @@
   {
     "package": "sf2",
     "url": "https://github.com/rpkgs/sf2"
+  }, 
+  {
+    "package": "waterlevel",
+    "url": "https://github.com/jkennel/waterlevel"
+  }, 
+  {
+    "package": "hydrorecipes",
+    "url": "https://github.com/jkennel/hydrorecipes"
   }
 ]
