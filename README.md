@@ -1,13 +1,8 @@
-## Mirror of my packages
+## Mirror of my R packages
 
 <https://rpkgs.r-universe.dev>
 
-
-## GitHub Actions
-
-<https://github.com/r-universe/rpkgs/actions>
-
-## config
+## Config
 ```r
 options(repos = c(
   rpkgs = "https://rpkgs.r-universe.dev",
@@ -18,3 +13,5 @@ options(repos = c(
 # another option
 install.packages("Ipaper", repos = "https://rpkgs.r-universe.dev")
 ```
+
+*pkgs latest builds*: <https://github.com/r-universe/rpkgs/actions>
