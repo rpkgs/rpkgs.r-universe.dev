@@ -17,6 +17,10 @@
   },
   {
     "package": "rgee2",
+    "url": "https://github.com/r-spatial/rgee"
+  },
+  {
+    "package": "rgee2",
     "url": "https://github.com/rpkgs/rgee2"
   },
   {
