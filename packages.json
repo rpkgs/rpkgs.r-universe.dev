@@ -16,6 +16,10 @@
     "url": "https://github.com/rpkgs/rcolors"
   },
   {
+    "package": "rgee2",
+    "url": "https://github.com/rpkgs/rgee2"
+  },
+  {
     "package": "Ipaper",
     "url": "https://github.com/rpkgs/Ipaper"
   },
